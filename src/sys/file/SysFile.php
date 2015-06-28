@@ -150,6 +150,8 @@ class SysFile
 
     /**
      * Gets the information of a file path.
+     * 
+     * @param string $path File path
      *
      * @return string[]
      */
@@ -166,6 +168,8 @@ class SysFile
 
     /**
      * Gets the extension of a file path.
+     * 
+     * @param string $path File path
      *
      * @return string
      */
